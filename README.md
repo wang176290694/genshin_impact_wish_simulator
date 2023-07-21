@@ -1,0 +1,2 @@
+# genshin_impact_simulatorwish
+这是一个使用python中的pygame模块运行的原神抽卡模拟器
